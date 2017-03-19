@@ -1,8 +1,44 @@
+.git/COMMIT_EDITMSG
+.git/config
+.git/description
+.git/FETCH_HEAD
+.git/HEAD
+.git/hooks/applypatch-msg.sample
+.git/hooks/commit-msg.sample
+.git/hooks/post-update.sample
+.git/hooks/pre-applypatch.sample
+.git/hooks/pre-commit.sample
+.git/hooks/pre-push.sample
+.git/hooks/pre-rebase.sample
+.git/hooks/pre-receive.sample
+.git/hooks/prepare-commit-msg.sample
+.git/hooks/update.sample
+.git/index
+.git/info/exclude
+.git/logs/HEAD
+.git/logs/refs/heads/master
+.git/logs/refs/remotes/origin/HEAD
+.git/logs/refs/remotes/origin/master
+.git/logs/refs/remotes/upstream/master
+.git/objects/2f/34d82a71ad350e1c265090ea6175467e44e580
+.git/objects/71/ee5a8b2447001dedda25280c982ba4214cdebd
+.git/objects/b4/2f8d202160faef85083d8f9940416041e83205
+.git/objects/b9/76cc16d4d8f2004a20b7632f61aabf4309819f
+.git/objects/d2/69646dd32cd233e3b9fe7ab0e66c3596db2f59
+.git/objects/pack/pack-d1f9192de0d35a98b0b9d56ca86ad02eed847e90.idx
+.git/objects/pack/pack-d1f9192de0d35a98b0b9d56ca86ad02eed847e90.pack
+.git/ORIG_HEAD
+.git/packed-refs
+.git/refs/heads/master
+.git/refs/remotes/origin/HEAD
+.git/refs/remotes/origin/master
+.git/refs/remotes/upstream/master
 app.coffee
-framer/backups/backup-2017-03-18 16.41.37.coffee
-framer/backups/backup-2017-03-18 16.43.07.coffee
-framer/backups/backup-2017-03-18 17.20.27.coffee
-framer/backups/backup-2017-03-18 17.21.27.coffee
+framer/backups/backup-2017-03-18 19.49.55.coffee
+framer/backups/backup-2017-03-19 04.31.34.coffee
+framer/backups/backup-2017-03-19 04.38.34.coffee
+framer/backups/backup-2017-03-19 04.39.34.coffee
+framer/backups/backup-2017-03-19 06.29.34.coffee
 framer/coffee-script.js
 framer/config.json
 framer/framer.generated.js
@@ -19,6 +55,7 @@ framer/images/icon-152.png
 framer/images/icon-180.png
 framer/images/icon-192.png
 framer/images/icon-76.png
+framer/manifest.txt
 framer/preview.png
 framer/style.css
 framer/version
@@ -51,6 +88,12 @@ images/shows/8.jpg
 images/shows/9.jpg
 images/statusIcons.svg
 images/systemIcons.svg
+images/tabbar_icons/explore-icon.png
+images/tabbar_icons/explore-selected.png
+images/tabbar_icons/featured-icon.png
+images/tabbar_icons/featured-selected.png
+images/tabbar_icons/search-icon.png
+images/tabbar_icons/search-selected.png
 images/upcoming/1.jpg
 images/upcoming/10.jpg
 images/upcoming/2.jpg
@@ -73,3 +116,4 @@ images/watch/8.jpg
 images/watch/9.jpg
 index.html
 modules/mediaInfo.coffee
+modules/tabBarModule.coffee

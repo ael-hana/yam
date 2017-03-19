@@ -1,23 +1,18 @@
 {
-  "sharedPrototype" : 1,
-  "deviceOrientation" : 0,
-  "contentScale" : 1,
-  "deviceType" : "google-nexus-5x",
-  "selectedHand" : "iphone-hands-1",
-  "updateDelay" : 0.3,
-  "foldedCodeRanges" : [
-    "{0, 733}",
-    "{734, 149}",
-    "{884, 2368}",
-    "{3253, 793}",
-    "{4047, 851}",
-    "{4899, 843}",
-    "{5743, 1503}",
-    "{7247, 261}",
-    "{7509, 474}"
-  ],
-  "deviceScale" : "fit",
   "orientation" : 0,
+  "updateDelay" : 0.3,
+  "contentScale" : 1,
   "fullScreen" : false,
-  "projectId" : "0F080B98-6D78-47F7-B2E8-6EECC3F39C54"
+  "sharedPrototype" : 1,
+  "propertyPanelToggleStates" : {
+
+  },
+  "deviceType" : "apple-iphone-7-gold",
+  "projectId" : "0F080B98-6D78-47F7-B2E8-6EECC3F39C54",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "foldedCodeRanges" : [
+
+  ],
+  "deviceScale" : "fit"
 }
