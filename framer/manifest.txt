@@ -1,7 +1,5 @@
-.git/COMMIT_EDITMSG
 .git/config
 .git/description
-.git/FETCH_HEAD
 .git/HEAD
 .git/hooks/applypatch-msg.sample
 .git/hooks/commit-msg.sample
@@ -18,87 +16,16 @@
 .git/logs/HEAD
 .git/logs/refs/heads/master
 .git/logs/refs/remotes/origin/HEAD
-.git/logs/refs/remotes/origin/master
-.git/logs/refs/remotes/upstream/master
-.git/objects/11/f4501682c0501e6d7f453a4db832c13cbfd471
-.git/objects/1c/84bb39128916a07e060b7413abe9fe67e552fc
-.git/objects/1d/a61c67c4ca47318b707bfc6e9f36a6b4edaaed
-.git/objects/20/a149676cf3c6b73f0b3012085956bcb538703a
-.git/objects/2e/dbbaef78faa46db999f39c9308ebac7776f924
-.git/objects/2f/34d82a71ad350e1c265090ea6175467e44e580
-.git/objects/34/bdd0ff4a273a737526529d4ceebb14da4f8bd6
-.git/objects/34/c106551e1ad1513c4f6f867af01c21fb8e98c2
-.git/objects/37/c43cf689d3825c6fddaa39500da7c0e3413aa4
-.git/objects/38/bf378c00acc6cc9abde85d4681266302a77228
-.git/objects/3a/170224b5bfcc619990baa6dc0ea74435604d83
-.git/objects/3e/723ac1f1e81e522b51f96ce334c09c9f6dc2e3
-.git/objects/59/5b0cd4ec556057636278bc8a4ef14210ddbe6d
-.git/objects/59/708e38df8770a4658967deb5fed0f7f93c9a25
-.git/objects/5b/6b012c0c3a26b6d27500d667e06b6758acb6fb
-.git/objects/6a/23263d24e9eda91686600d220741285c3590aa
-.git/objects/6d/b2b415594f227972beb6aa8b99cf9d81870740
-.git/objects/70/de2aae18d7a68b0130f66a30899ea083376ac4
-.git/objects/71/ee5a8b2447001dedda25280c982ba4214cdebd
-.git/objects/76/f00e2f882a8d002620b025c9067e54e12a1624
-.git/objects/77/62480c183d64e3c35f208ec25537ffb1c468f8
-.git/objects/79/1ec9198feb72c353dc844b579f7ced72939b42
-.git/objects/7a/b599915945ecbe9346a7bbf444c4fa2e5dadb5
-.git/objects/7f/2993d4b66d6d415cee478cbf001818bac9e3c3
-.git/objects/7f/c749b711c3b9f2f3ff158b8a5e10277fcbe667
-.git/objects/80/f243d06b979b95a37ff1b11bcfa3698ba21985
-.git/objects/86/2749c6bafd10373c5c1966b8ee4d325c1625f6
-.git/objects/87/964cd3097246f2abf0e2ce0655d4ff02dd22b6
-.git/objects/88/7675e8be72296f71d8b557d66a095c8c776535
-.git/objects/8d/d3f3a7e61dbc64cf63d58e532cd535506c0017
-.git/objects/95/6518be963140a147098e824d47357660dd704a
-.git/objects/9b/7b416e52d3e2a5e85b0a6eac0dd1c4c3b30e00
-.git/objects/a6/b794a775dcca8495f800774c3a9bdf406c52b3
-.git/objects/a9/e2f58416497e05b2bfb5b5b22706d33372819e
-.git/objects/ad/662ce843acfd2f4cef4e55010e41d39b29b016
-.git/objects/b1/8dfefaaa755b55a00cd6ca001df776ea8ddfbe
-.git/objects/b4/2f8d202160faef85083d8f9940416041e83205
-.git/objects/b9/76cc16d4d8f2004a20b7632f61aabf4309819f
-.git/objects/c2/3342016750f234ed4df1e84853f896a8eef248
-.git/objects/c4/a1dd2bc2e06ba503cf657c677e8b07830a2b0b
-.git/objects/c5/1f4b7153a94037678883b625ccac0a7978bf94
-.git/objects/d2/69646dd32cd233e3b9fe7ab0e66c3596db2f59
-.git/objects/d5/64d0bc3dd917926892c55e3706cc116d5b165e
-.git/objects/e3/227fdada24d7fe09233a87ab033c89f6e4c095
-.git/objects/e5/3a2384a3a02807a46ee3c9a85b08cb66cea663
-.git/objects/eb/25473a4f60e731a7ba4f64fbb06ba6d43b8c1e
-.git/objects/f8/25fddb9dd982fc1ead2b6c31e302bdc269a9c8
-.git/objects/f9/3116ee1340554e6b7e178face9052ac9d77d39
-.git/objects/fa/0edf9e175c51afe6db47a56b7b9f56978a9f0b
-.git/objects/pack/pack-d1f9192de0d35a98b0b9d56ca86ad02eed847e90.idx
-.git/objects/pack/pack-d1f9192de0d35a98b0b9d56ca86ad02eed847e90.pack
-.git/ORIG_HEAD
+.git/objects/pack/pack-fda12925bec3ebaf037036523928a976bff757be.idx
+.git/objects/pack/pack-fda12925bec3ebaf037036523928a976bff757be.pack
 .git/packed-refs
 .git/refs/heads/master
 .git/refs/remotes/origin/HEAD
-.git/refs/remotes/origin/master
-.git/refs/remotes/upstream/master
 app.coffee
-framer/backups/backup-2017-03-19 08.52.34.coffee
-framer/backups/backup-2017-03-19 08.53.34.coffee
-framer/backups/backup-2017-03-19 08.54.34.coffee
-framer/backups/backup-2017-03-19 08.55.34.coffee
-framer/backups/backup-2017-03-19 08.56.34.coffee
-framer/backups/backup-2017-03-19 08.57.34.coffee
-framer/backups/backup-2017-03-19 08.58.34.coffee
-framer/backups/backup-2017-03-19 08.59.34.coffee
-framer/backups/backup-2017-03-19 09.00.34.coffee
-framer/backups/backup-2017-03-19 09.01.34.coffee
-framer/backups/backup-2017-03-19 09.02.34.coffee
-framer/backups/backup-2017-03-19 09.05.34.coffee
-framer/backups/backup-2017-03-19 09.13.34.coffee
-framer/backups/backup-2017-03-19 09.25.34.coffee
-framer/backups/backup-2017-03-19 09.26.34.coffee
-framer/backups/backup-2017-03-19 09.27.34.coffee
-framer/backups/backup-2017-03-19 09.28.34.coffee
-framer/backups/backup-2017-03-19 09.29.34.coffee
-framer/backups/backup-2017-03-19 09.30.34.coffee
-framer/backups/backup-2017-03-19 09.31.34.coffee
-framer/backups/backup-2017-03-19 09.32.34.coffee
+app.js
+framer/backups/backup-2017-03-19 03.12.11.coffee
+framer/backups/backup-2017-03-19 03.26.29.coffee
+framer/backups/backup-2017-03-19 03.31.12.coffee
 framer/coffee-script.js
 framer/config.json
 framer/framer.generated.js
@@ -115,27 +42,12 @@ framer/images/icon-152.png
 framer/images/icon-180.png
 framer/images/icon-192.png
 framer/images/icon-76.png
-framer/manifest.txt
 framer/preview.png
 framer/style.css
 framer/version
-icons.sketch
-images/loadingPage.gif
+images/screen_01_settings.png
+images/screen_02_general.png
+images/screen_03_siri.png
+images/screen_04_update.png
 index.html
-modules/ios-kit-alert.coffee
-modules/ios-kit-banner.coffee
-modules/ios-kit-button.coffee
-modules/ios-kit-converter.coffee
-modules/ios-kit-field.coffee
-modules/ios-kit-keyboard.coffee
-modules/ios-kit-layout.coffee
-modules/ios-kit-library.coffee
-modules/ios-kit-nav-bar.coffee
-modules/ios-kit-sheet.coffee
-modules/ios-kit-status-bar.coffee
-modules/ios-kit-tab-bar.coffee
-modules/ios-kit-temp.coffee
-modules/ios-kit-text.coffee
-modules/ios-kit-utils.coffee
-modules/ios-kit-view.coffee
-modules/ios-kit.coffee
+modules/ViewNavigationController.coffee

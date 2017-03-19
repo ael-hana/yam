@@ -1,61 +1,86 @@
-ios = require "ios-kit"
+{ViewNavigationController} = require "ViewNavigationController"
 
-page = new PageComponent
-  width: Screen.width
-  height: Screen.height
-  scrollHorizontal: false 
-  scrollVertical: false
+Screen.backgroundColor = "white"
 
-statusBar = new ios.StatusBar
-	carrier:"Free"
-	network:"LTE"
-	battery: 42
+vnc = new ViewNavigationController
+
+# This is optional, but allows you to customize the transition
+vnc.animationOptions =
+	curve: "ease-in-out"
+	time: 0.3
+
+# # # # # # # # # # # # # # # # # # # # # # # #
+# VIEWS
+# # # # # # # # # # # # # # # # # # # # # # # #
+viewSettings = new Layer
+	name: "initialView"
+	width: 750, height: 1334
+	image: "images/screen_01_settings.png"
+	parent: vnc
+
+viewGeneral = new Layer
+	width: 750, height: 1334
+	image: "images/screen_02_general.png"
+	parent: vnc
+
+viewSiri = new Layer
+	width: 750, height: 1334
+	image: "images/screen_03_siri.png"
+	parent: vnc
 	
-loadingScreen = new Layer
-	width: page.width
-	height: page.height
-	parent: page.content
-	image: "images/loadingPage.gif"
+viewUpdate = new Layer
+	width: 750, height: 1334
+	image: "images/screen_04_update.png"
+	parent: vnc
+
+# To remove the back button from a view, do this:
+# vnc.removeBackButton(viewUpdate)
+
+# # # # # # # # # # # # # # # # # # # # # # # #
+# BUTTONS
+# # # # # # # # # # # # # # # # # # # # # # # #
+btnGeneral = new Layer
+	width: Screen.width
+	height: 88
+	y: 1130
+	backgroundColor: "transparent"
+	parent: viewSettings
 	
+btnSiri = new Layer
+	width: Screen.width
+	height: 88
+	y: 444
+	backgroundColor: "transparent"
+	parent: viewGeneral
+	
+btnUpdate = new Layer
+	width: Screen.width
+	height: 88
+	y: 284
+	backgroundColor: "transparent"
+	parent: viewGeneral
 
-# separator = new TextLayer
-# 	text: "The quick brown fox jumps over the lazy dog"
-# 	color: "#aaa"
-# 	textAlign: "center"
-# 	fontSize: 14
-# 	width: 220
-# 	height: 40
-# 	fontFamily: "Georgia"
-# 
-# separator.center()
 
-signinButton = new ios.Button
-	text:"Sign In"
-	buttonType:"small"
-	color:"#000"
-	constraints:
-		top: 600
-		leading: 123
+# # # # # # # # # # # # # # # # # # # # # # # #
+# EVENTS
+# # # # # # # # # # # # # # # # # # # # # # # #
+btnGeneral.on Events.Click, ->
+	vnc.transition viewGeneral
+	
+btnSiri.on Events.Click, ->
+	vnc.transition viewSiri
 
-pipe = new ios.Text
-	text:"|"
-	fontSize:19
-	top: 50
-	constraints:
-		top: 598
-		leading: 183
+btnUpdate.on Events.Click, ->
+	vnc.transition viewUpdate
 
-registerButton = new ios.Button
-	text:"Register"
-	buttonType:"small"
-	color:"#000"
-	constraints:
-		top: 600
-		leading: 197
+###
+To change the direction of the transition,
+just add a "direction" property.
 
-# Utiliser ca pour les pages qui scrollent
-# mainScreenScroll = new ScrollComponent
-#   width: Screen.width
-#   height: Screen.height
-#   parent: mainScreen
-#   scrollHorizontal: false		
+Example:
+btnUpdate.on Events.Click, ->
+	vnc.transition viewUpdate, direction = "up"
+
+The transitions available are:
+"up", "down", "left" and "right"
+###
