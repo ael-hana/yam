@@ -1,17 +1,18 @@
 require=(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({"mediaInfo":[function(require,module,exports){
 exports.title = {
   movies: {
-    name: ["Le Jules Verne", "Ciel de Paris", "Aster", "State Bird Provisions", "Farallon", "Kokkari Estiatorio", "Wall-E", "Man of Steel", "Everest", "Oblivion"],
+    name: ["Le Jules Verne", "Ciel de Paris", "Aster", "State Bird Provisions", "Farallon", "Acquerello", "The Palm Restaurant", "Republique", "Noe Restaurant", "Versailles"],
     description: ["Eiffel Tower, Avenue Gustave Eiffel, 75000 Paris, France.",
     "Montparnasse Rive Gauche, Tour Maine Montparnasse, 33 Avenue du Maine, 75015 Paris, France",//Ciel de paris
     "1001 Guerrero St, San Francisco, CA 94110, US",
     "1529 Fillmore St, San Francisco, CA 94115, US",
     "Address: 450 Post St, San Francisco, CA 94102, US",
-    "200 Jackson St, San Francisco, CA 94111, US.",
-    "Wall-E, short for Waste Allocation Load Lifter Earth-class, is the last robot left on Earth. He spends his days tidying up the planet.",
-    "With the imminent destruction of Krypton, their home planet, Jor-El and his wife seek to preserve their race by sending their infant son.",
-    "On the morning of May 10, 1996, climbers start their final ascent toward the summit of Mount Everest, the highest point on Earth.",
-    "In the year 2077, Jack Harper works as a security repairman on an Earth left empty and devastated after a war with aliens. "]
+    "1722 Sacramento St, San Francisco, CA 94109, US",// 6 element Acquerello
+    "1100 S Flower St, Los Angeles, CA 90015, US",
+    "624 S La Brea Ave, Los Angeles, CA 90036, US",
+    "Omni Los Angeles Hotel at California Plaza, 251 S Olive St, Los Angeles, CA 90012, US",
+    "1415 S La Cienega Blvd, Los Angeles, CA 90035, US"],
+    time: ["24h", "24h", "24h", "24h", "24h", "24h", "24h", "24h", "24h", "24h"]
   },
   shows: {
     name: ["Arrow", "Billions", "Outlander", "The Green Lantern", "Grimm", "House of Cards", "Salem", "Band of Brothers", "Elementary", "Wayward Pines"],
