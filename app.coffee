@@ -1,5 +1,4 @@
 ios = require "ios-kit"
-TextLayer = require "textlayer"
 
 page = new PageComponent
   width: Screen.width

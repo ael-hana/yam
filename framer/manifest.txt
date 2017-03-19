@@ -27,16 +27,22 @@
 .git/objects/2e/dbbaef78faa46db999f39c9308ebac7776f924
 .git/objects/2f/34d82a71ad350e1c265090ea6175467e44e580
 .git/objects/34/bdd0ff4a273a737526529d4ceebb14da4f8bd6
+.git/objects/34/c106551e1ad1513c4f6f867af01c21fb8e98c2
 .git/objects/37/c43cf689d3825c6fddaa39500da7c0e3413aa4
+.git/objects/38/bf378c00acc6cc9abde85d4681266302a77228
+.git/objects/3a/170224b5bfcc619990baa6dc0ea74435604d83
+.git/objects/3e/723ac1f1e81e522b51f96ce334c09c9f6dc2e3
 .git/objects/59/5b0cd4ec556057636278bc8a4ef14210ddbe6d
 .git/objects/59/708e38df8770a4658967deb5fed0f7f93c9a25
 .git/objects/5b/6b012c0c3a26b6d27500d667e06b6758acb6fb
 .git/objects/6a/23263d24e9eda91686600d220741285c3590aa
+.git/objects/6d/b2b415594f227972beb6aa8b99cf9d81870740
 .git/objects/70/de2aae18d7a68b0130f66a30899ea083376ac4
 .git/objects/71/ee5a8b2447001dedda25280c982ba4214cdebd
 .git/objects/76/f00e2f882a8d002620b025c9067e54e12a1624
 .git/objects/77/62480c183d64e3c35f208ec25537ffb1c468f8
 .git/objects/79/1ec9198feb72c353dc844b579f7ced72939b42
+.git/objects/7a/b599915945ecbe9346a7bbf444c4fa2e5dadb5
 .git/objects/7f/2993d4b66d6d415cee478cbf001818bac9e3c3
 .git/objects/7f/c749b711c3b9f2f3ff158b8a5e10277fcbe667
 .git/objects/80/f243d06b979b95a37ff1b11bcfa3698ba21985
@@ -60,6 +66,8 @@
 .git/objects/e3/227fdada24d7fe09233a87ab033c89f6e4c095
 .git/objects/e5/3a2384a3a02807a46ee3c9a85b08cb66cea663
 .git/objects/eb/25473a4f60e731a7ba4f64fbb06ba6d43b8c1e
+.git/objects/f8/25fddb9dd982fc1ead2b6c31e302bdc269a9c8
+.git/objects/f9/3116ee1340554e6b7e178face9052ac9d77d39
 .git/objects/fa/0edf9e175c51afe6db47a56b7b9f56978a9f0b
 .git/objects/pack/pack-d1f9192de0d35a98b0b9d56ca86ad02eed847e90.idx
 .git/objects/pack/pack-d1f9192de0d35a98b0b9d56ca86ad02eed847e90.pack
@@ -131,4 +139,3 @@ modules/ios-kit-text.coffee
 modules/ios-kit-utils.coffee
 modules/ios-kit-view.coffee
 modules/ios-kit.coffee
-modules/textlayer.coffee
