@@ -21,10 +21,18 @@
 .git/logs/refs/remotes/origin/master
 .git/logs/refs/remotes/upstream/master
 .git/objects/2f/34d82a71ad350e1c265090ea6175467e44e580
+.git/objects/5b/6b012c0c3a26b6d27500d667e06b6758acb6fb
+.git/objects/6a/23263d24e9eda91686600d220741285c3590aa
 .git/objects/71/ee5a8b2447001dedda25280c982ba4214cdebd
+.git/objects/80/f243d06b979b95a37ff1b11bcfa3698ba21985
+.git/objects/ad/662ce843acfd2f4cef4e55010e41d39b29b016
+.git/objects/b1/8dfefaaa755b55a00cd6ca001df776ea8ddfbe
 .git/objects/b4/2f8d202160faef85083d8f9940416041e83205
 .git/objects/b9/76cc16d4d8f2004a20b7632f61aabf4309819f
+.git/objects/c5/1f4b7153a94037678883b625ccac0a7978bf94
 .git/objects/d2/69646dd32cd233e3b9fe7ab0e66c3596db2f59
+.git/objects/e5/3a2384a3a02807a46ee3c9a85b08cb66cea663
+.git/objects/eb/25473a4f60e731a7ba4f64fbb06ba6d43b8c1e
 .git/objects/pack/pack-d1f9192de0d35a98b0b9d56ca86ad02eed847e90.idx
 .git/objects/pack/pack-d1f9192de0d35a98b0b9d56ca86ad02eed847e90.pack
 .git/ORIG_HEAD
@@ -34,11 +42,27 @@
 .git/refs/remotes/origin/master
 .git/refs/remotes/upstream/master
 app.coffee
-framer/backups/backup-2017-03-18 19.49.55.coffee
-framer/backups/backup-2017-03-19 04.31.34.coffee
-framer/backups/backup-2017-03-19 04.38.34.coffee
-framer/backups/backup-2017-03-19 04.39.34.coffee
 framer/backups/backup-2017-03-19 06.29.34.coffee
+framer/backups/backup-2017-03-19 06.50.34.coffee
+framer/backups/backup-2017-03-19 06.58.34.coffee
+framer/backups/backup-2017-03-19 07.06.34.coffee
+framer/backups/backup-2017-03-19 07.07.34.coffee
+framer/backups/backup-2017-03-19 07.08.34.coffee
+framer/backups/backup-2017-03-19 07.09.34.coffee
+framer/backups/backup-2017-03-19 07.12.34.coffee
+framer/backups/backup-2017-03-19 07.13.34.coffee
+framer/backups/backup-2017-03-19 07.14.34.coffee
+framer/backups/backup-2017-03-19 07.15.34.coffee
+framer/backups/backup-2017-03-19 07.16.34.coffee
+framer/backups/backup-2017-03-19 07.17.34.coffee
+framer/backups/backup-2017-03-19 07.18.34.coffee
+framer/backups/backup-2017-03-19 07.19.34.coffee
+framer/backups/backup-2017-03-19 07.31.34.coffee
+framer/backups/backup-2017-03-19 07.34.34.coffee
+framer/backups/backup-2017-03-19 07.35.34.coffee
+framer/backups/backup-2017-03-19 07.36.34.coffee
+framer/backups/backup-2017-03-19 07.37.34.coffee
+framer/backups/backup-2017-03-19 07.38.34.coffee
 framer/coffee-script.js
 framer/config.json
 framer/framer.generated.js
@@ -60,60 +84,37 @@ framer/preview.png
 framer/style.css
 framer/version
 icons.sketch
-images/mdMenu.svg
-images/mdMore.svg
-images/mdMovies.svg
-images/mdShows.svg
-images/mdUpcoming.svg
-images/mdWatch.svg
-images/movies/1.jpg
-images/movies/10.jpg
-images/movies/2.jpg
-images/movies/3.jpg
-images/movies/4.jpg
-images/movies/5.jpg
-images/movies/6.jpg
-images/movies/7.jpg
-images/movies/8.jpg
-images/movies/9.jpg
-images/shows/1.jpg
-images/shows/10.jpg
-images/shows/2.jpg
-images/shows/3.jpg
-images/shows/4.jpg
-images/shows/5.jpg
-images/shows/6.jpg
-images/shows/7.jpg
-images/shows/8.jpg
-images/shows/9.jpg
-images/statusIcons.svg
-images/systemIcons.svg
-images/tabbar_icons/explore-icon.png
-images/tabbar_icons/explore-selected.png
-images/tabbar_icons/featured-icon.png
-images/tabbar_icons/featured-selected.png
-images/tabbar_icons/search-icon.png
-images/tabbar_icons/search-selected.png
-images/upcoming/1.jpg
-images/upcoming/10.jpg
-images/upcoming/2.jpg
-images/upcoming/3.jpg
-images/upcoming/4.jpg
-images/upcoming/5.jpg
-images/upcoming/6.jpg
-images/upcoming/7.jpg
-images/upcoming/8.jpg
-images/upcoming/9.jpg
-images/watch/1.jpg
-images/watch/10.jpg
-images/watch/2.jpg
-images/watch/3.jpg
-images/watch/4.jpg
-images/watch/5.jpg
-images/watch/6.jpg
-images/watch/7.jpg
-images/watch/8.jpg
-images/watch/9.jpg
+imported/iOS Kit Demo@1x/images/Layer-batt_icon-ndjbndg0.png
+imported/iOS Kit Demo@1x/images/Layer-battery-oum4nkfb.png
+imported/iOS Kit Demo@1x/images/Layer-bg-rku3qkzd.png
+imported/iOS Kit Demo@1x/images/Layer-bg-rtmzmjzc.png
+imported/iOS Kit Demo@1x/images/Layer-bluetooth-m0i5mzy0.png
+imported/iOS Kit Demo@1x/images/Layer-carrier-mzlerujg.png
+imported/iOS Kit Demo@1x/images/Layer-left-oeu0meqw.png
+imported/iOS Kit Demo@1x/images/Layer-network-rkfeqkuy.png
+imported/iOS Kit Demo@1x/images/Layer-placeholder-qzgzodjd.png
+imported/iOS Kit Demo@1x/images/Layer-right-menemeyz.png
+imported/iOS Kit Demo@1x/images/Layer-signal-mezemzky.png
+imported/iOS Kit Demo@1x/images/Layer-time-oduxqzg0.png
+imported/iOS Kit Demo@1x/images/Layer-title-mzdgrjdf.png
+imported/iOS Kit Demo@1x/images/Layer-wifi-nda4qzze.png
+imported/iOS Kit Demo@1x/layers.json
+imported/iOS Kit Demo@1x/layers.json.js
 index.html
-modules/mediaInfo.coffee
-modules/tabBarModule.coffee
+modules/ios-kit-alert.coffee
+modules/ios-kit-banner.coffee
+modules/ios-kit-button.coffee
+modules/ios-kit-converter.coffee
+modules/ios-kit-field.coffee
+modules/ios-kit-keyboard.coffee
+modules/ios-kit-layout.coffee
+modules/ios-kit-library.coffee
+modules/ios-kit-nav-bar.coffee
+modules/ios-kit-sheet.coffee
+modules/ios-kit-status-bar.coffee
+modules/ios-kit-tab-bar.coffee
+modules/ios-kit-temp.coffee
+modules/ios-kit-text.coffee
+modules/ios-kit-utils.coffee
+modules/ios-kit-view.coffee
+modules/ios-kit.coffee
